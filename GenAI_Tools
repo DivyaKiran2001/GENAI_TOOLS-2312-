@@ -1,0 +1,111 @@
+**GITHUB COPILOT**
+
+- Code Completion
+- Code Suggestions
+- Documentation
+- Learning from Context
+- Multi Language Support
+- Code Snippets
+- Refactoring
+
+
+1. Install GitHub Copilot extension
+2. Press Ctrl+I or you can directly give in the file as specific to the language comments
+
+Ex : for Java
+
+// Write a code to add two numbers
+
+then it will generate the response in lighter shade code to accept it place the cursor at starting of the line and press tab (To Accept) and Esc (To Discard)
+
+- you will get a box to enter prompt and press enter
+- it will give response accept or discard
+
+
+3. To use the code in another file just write the filename (or) Use # before the filename in the prompt
+
+Ex: // Create 5 objects based on Account.java (OR)
+
+// Refer to Account.java and create 5 objects
+
+
+** Features **
+
+1. Select the generated code you will get a bubble option and 
+select Modify using Copilot and enter the prompt you have to change for that code
+- Then the previous will be selected by the new one
+
+2. Select the generated code you will get a bubble option (or) press Ctrl + . and 
+select Review using Copilot it will suggest the better changes needed to be done in the code and then select Apply and go to next to apply changes
+
+** FIXING OF ERRORS**
+
+(i) Hover on the selected error and select fix using copilot
+(ii) Right click on the selected code and select
+
+Copilot ----> Fix
+
+
+3. ** Explain the part of code **
+
+ Select part of the code which you want to get understood and right click on the selected part of code and select
+
+Copilot ----> Explain
+
+Then it will explain those lines
+
+4. Copilot -----> Review and Comment
+
+Same as Review Using Copilot
+
+5. Copilot -----> Generate docs
+
+It will generate the documentation for the selected code
+
+6. Copilot ------> Generate tests
+
+Generate the test cases for selected code
+
+7. Copilot ------> Add Selection to chat
+
+Add the selected code to the Copilot chat
+
+8. Copilot -------> Editor Inline Chat
+
+Opens the box to enter prompt (Ctrl + I)
+
+** Shortcuts **
+
+Enter the slash and select one of the below options in the prompt
+
+- /doc
+- /explain
+- /fix
+- /tests
+
+
+** GITHUB COPILOT CHAT**
+
+1. Select Insert At Cursor to insert the code in the file
+2. Apply in Editor to apply the changes in the code that is previously generated to apply the new generated code
+
+-- Shortcuts --
+
+@workspace /explain - Similar to explain
+
+
+**NOTE**
+
+- To see all the possible suggestions press Ctrl + Enter 
+
+
+
+
+
+
+
+
+
+
+
+
